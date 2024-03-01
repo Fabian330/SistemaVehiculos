@@ -1,0 +1,7 @@
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\bin\Debug\SistemaVehiculos.exe.config
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\bin\Debug\SistemaVehiculos.exe
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\bin\Debug\SistemaVehiculos.pdb
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\obj\Debug\SistemaVehiculos.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\obj\Debug\SistemaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\obj\Debug\SistemaVehiculos.exe
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\SistemaVehiculos\obj\Debug\SistemaVehiculos.pdb
